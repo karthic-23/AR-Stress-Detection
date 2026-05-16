@@ -159,3 +159,9 @@ Karthic N A
 ⭐ Notes
 
 This project demonstrates an end-to-end pipeline combining biosignal processing, machine learning, and immersive AR interaction.
+
+
+
+
+https://github.com/user-attachments/assets/57142f47-1d32-4c93-b695-a04c7e69d0d2
+
